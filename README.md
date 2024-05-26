@@ -8,7 +8,7 @@ Easily set up to run behind a reverse proxy (see below).
 
 # Requirements
 
-	* CMake
+CMake
 
 # Building & Running
 
