@@ -20,7 +20,7 @@ CMake
 
 Default port is 4444, and the default URI prefix (base URI) is /uprest/.
 
-Both can be changed in main.c, line 38:
+Both can be changed in main.cpp, line 38:
 
 		server = new Server(UPREST_BIND_LOCALHOST, UPREST_PORT, "/uprest/", 4);
 
